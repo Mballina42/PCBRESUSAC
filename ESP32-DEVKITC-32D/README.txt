@@ -1,0 +1,1 @@
+Importar libreria dentro de kicad
