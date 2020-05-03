@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_Pro_Mini_3V3
+D Socket for Arduino Mini 03
+K Arduino MPU Shield
+$ENDCMP
+#
+#End Doc Library
