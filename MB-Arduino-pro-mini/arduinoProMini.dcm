@@ -5,4 +5,9 @@ D Socket for Arduino Mini 03
 K Arduino MPU Shield
 $ENDCMP
 #
+$CMP Arduino_Pro_Mini_3V3_RES
+D Socket for Arduino Mini 03
+K Arduino MPU Shield
+$ENDCMP
+#
 #End Doc Library
